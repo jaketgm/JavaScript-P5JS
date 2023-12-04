@@ -1,6 +1,6 @@
 /******************************************************************************
  * @author Jake Brockbank
- * Dec 3rd, 2023
+ * Dec 4th, 2023
  * This program is a simple game where the player must shoot enemies to gain
  * points and advance to the next round. The player can also pick up powerups
  * to restore health and ammo, and activate a shield for a short time.

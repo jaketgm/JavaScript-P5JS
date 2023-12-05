@@ -70,34 +70,34 @@ var level = 1;
 function preload() 
 {
 	// Levels 1 and 2
-	LocationOne = loadImage('Location 1.png');
-	KeyGame = loadImage('Keys.png');
-	home = loadImage('Home.png');
-	homeClicked = loadImage('HomePressed.png');
-	LocationTwo = loadImage('Location 2.jpg');
-	MagnifyingGlass = loadImage('MagnifyingGlass.png');
-	TitleScreen = loadImage('TitleScreen.jpg');
-	HomeImage = loadImage('HomeImage.jpg');
-	FakeKey = loadImage('FakeKey.png');
-	Key2 = loadImage('Key2.png');
-	StartButton = loadImage('StartButton.png');
-	Settings = loadImage('Settings.png');
+	LocationOne = loadImage('./Assets/Location 1.png');
+	KeyGame = loadImage('./Assets/Keys.png');
+	home = loadImage('./Assets/Home.png');
+	homeClicked = loadImage('./Assets/HomePressed.png');
+	LocationTwo = loadImage('./Assets/Location 2.jpg');
+	MagnifyingGlass = loadImage('./Assets/MagnifyingGlass.png');
+	TitleScreen = loadImage('./Assets/TitleScreen.jpg');
+	HomeImage = loadImage('./Assets/HomeImage.jpg');
+	FakeKey = loadImage('./Assets/FakeKey.png');
+	Key2 = loadImage('./Assets/Key2.png');
+	StartButton = loadImage('./Assets/StartButton.png');
+	Settings = loadImage('./Assets/Settings.png');
 
 	// Levels 3 and 4
-	OutsideTrain = loadImage('OutsideTrain.jpg');
-	InsideTrain = loadImage('InsideTrain.png');
-	TrainTicket = loadImage('TrainTicket.png');
-	People = loadImage('People.png');
-	Book = loadImage('Book.png');
-	Page = loadImage('Page.png');
-	Footprint = loadImage('Footprint.png');
-	ID = loadImage('ID.png');
-	Transparent = loadImage('Transparent.png');
-	Back = loadImage('Back.png');
-	Phone = loadImage('Phone.png');
-	briefCase = loadImage('briefCase.png');
-	Money = loadImage('Money.png');
-	Office = loadImage('Office.jpg');
+	OutsideTrain = loadImage('./Assets/OutsideTrain.jpg');
+	InsideTrain = loadImage('./Assets/InsideTrain.png');
+	TrainTicket = loadImage('./Assets/TrainTicket.png');
+	People = loadImage('./Assets/People.png');
+	Book = loadImage('./Assets/Book.png');
+	Page = loadImage('./Assets/Page.png');
+	Footprint = loadImage('./Assets/Footprint.png');
+	ID = loadImage('./Assets/ID.png');
+	Transparent = loadImage('./Assets/Transparent.png');
+	Back = loadImage('./Assets/Back.png');
+	Phone = loadImage('./Assets/Phone.png');
+	briefCase = loadImage('./Assets/briefCase.png');
+	Money = loadImage('./Assets/Money.png');
+	Office = loadImage('./Assets/Office.jpg');
 }
 
 /******************************************************************************
